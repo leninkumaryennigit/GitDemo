@@ -1,0 +1,60 @@
+2020-02-01 19:02:321 INFO  WaitHelper:27 - waiting for element visibilityOf..
+2020-02-01 19:02:454 INFO  WaitHelper:30 - element is visible..
+2020-02-01 19:02:154 INFO  WaitHelper:27 - waiting for element visibilityOf..
+2020-02-01 19:02:269 INFO  WaitHelper:30 - element is visible..
+2020-02-01 19:02:271 INFO  WaitHelper:27 - waiting for element visibilityOf..
+2020-02-01 19:02:331 INFO  WaitHelper:30 - element is visible..
+2020-02-01 19:02:332 INFO  LeadsCreationPage:110 - clicking on create leads button
+2020-02-01 19:02:225 INFO  LeadsCreationPage:115 - selecting first Name type as: Mr.
+2020-02-01 19:02:225 INFO  WaitHelper:27 - waiting for element visibilityOf..
+2020-02-01 19:02:288 INFO  WaitHelper:30 - element is visible..
+2020-02-01 19:02:467 INFO  LeadsCreationPage:122 - entering first name as : auto_firstName
+2020-02-01 19:02:762 INFO  LeadsCreationPage:127 - entering lastName as: auto_lastName
+2020-02-01 19:02:989 INFO  LeadsCreationPage:132 - entering company Name as: auto_company
+2020-02-01 19:02:198 INFO  LeadsCreationPage:137 - entering title as: auto_company
+2020-02-01 19:02:411 INFO  LeadsCreationPage:146 - selecting lead source as: Employee
+2020-02-01 19:02:588 INFO  LeadsCreationPage:152 - selecting industry as  : Banking
+2020-02-01 19:02:741 INFO  LeadsCreationPage:158 - entering annualrevenue as: 100
+2020-02-01 19:02:913 INFO  LeadsCreationPage:163 - entering noofemployees as : 2
+2020-02-01 19:02:23 INFO  LeadsCreationPage:168 - entering secondaryEmail as : info.test@gmail.com
+2020-02-01 19:02:303 INFO  LeadsCreationPage:173 - entering street as: 7535 Torrey Santa Fe Road
+2020-02-01 19:02:491 INFO  LeadsCreationPage:178 - entering postalCode as: 92129
+2020-02-01 19:02:647 INFO  LeadsCreationPage:183 - enter country as : US
+2020-02-01 19:02:764 INFO  LeadsCreationPage:188 - enter description as: auto_Description
+2020-02-01 19:02:980 INFO  LeadsCreationPage:193 - enter phone number as: 9999999999
+2020-02-01 19:02:190 INFO  LeadsCreationPage:198 - enter mobile number as: 9999999999
+2020-02-01 19:02:386 INFO  LeadsCreationPage:203 - enter fax as: Fax details
+2020-02-01 19:02:605 INFO  LeadsCreationPage:208 - enter email: info.test@gmail.com
+2020-02-01 19:02:96 INFO  LeadsCreationPage:213 - selecting leadStatus as: Attempted to Contact
+2020-02-01 19:02:360 INFO  LeadsCreationPage:228 - clicking on save button
+2020-02-01 19:02:475 INFO  LeadsPageStepDefinitions:154 - auto_firstName
+2020-02-01 19:02:475 INFO  LeadsPageStepDefinitions:155 - auto_lastName
+2020-02-01 19:02:476 INFO  WaitHelper:27 - waiting for element visibilityOf..
+2020-02-01 19:02:562 INFO  WaitHelper:30 - element is visible..
+2020-02-01 19:02:624 INFO  WaitHelper:27 - waiting for element visibilityOf..
+2020-02-01 19:02:665 INFO  WaitHelper:30 - element is visible..
+2020-02-01 19:02:703 INFO  WaitHelper:27 - waiting for element visibilityOf..
+2020-02-01 19:02:761 INFO  WaitHelper:30 - element is visible..
+2020-02-01 19:02:957 INFO  ServiceHooks:40 - Create Leads is Failed
+2020-02-01 19:02:136 INFO  ServiceHooks:49 - Title of your scenario is pass
+2020-02-01 19:02:371 INFO  ServiceHooks:49 - Title of your scenario is pass
+2020-02-01 19:02:458 INFO  WaitHelper:27 - waiting for element visibilityOf..
+2020-02-01 19:02:559 INFO  WaitHelper:30 - element is visible..
+2020-02-01 19:02:537 INFO  WaitHelper:27 - waiting for element visibilityOf..
+2020-02-01 19:02:930 INFO  WaitHelper:30 - element is visible..
+2020-02-01 19:02:177 INFO  ServiceHooks:49 - Sign In with valid credential is pass
+2020-02-01 19:02:557 INFO  WaitHelper:27 - waiting for element visibilityOf..
+2020-02-01 19:02:672 INFO  WaitHelper:30 - element is visible..
+2020-02-01 19:02:590 INFO  WaitHelper:27 - waiting for element visibilityOf..
+2020-02-01 19:02:976 INFO  WaitHelper:30 - element is visible..
+2020-02-01 19:02:307 INFO  ServiceHooks:49 - Sign In with valid credentials is pass
+2020-02-01 19:02:550 INFO  WaitHelper:27 - waiting for element visibilityOf..
+2020-02-01 19:02:642 INFO  WaitHelper:30 - element is visible..
+2020-02-01 19:02:631 INFO  WaitHelper:27 - waiting for element visibilityOf..
+2020-02-01 19:02:175 INFO  WaitHelper:30 - element is visible..
+2020-02-01 19:02:379 INFO  ServiceHooks:49 - Sign In with valid credentials is pass
+2020-02-01 19:02:125 INFO  WaitHelper:27 - waiting for element visibilityOf..
+2020-02-01 19:02:248 INFO  WaitHelper:30 - element is visible..
+2020-02-01 19:02:279 INFO  WaitHelper:27 - waiting for element visibilityOf..
+2020-02-01 19:02:424 INFO  WaitHelper:30 - element is visible..
+2020-02-01 19:02:169 INFO  ServiceHooks:49 - Sign In with valid credentials is pass

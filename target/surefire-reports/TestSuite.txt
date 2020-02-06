@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 185.803 sec <<< FAILURE! - in TestSuite
+feature(com.cucumberFramework.testRunner.TestRunner)  Time elapsed: 119.878 sec  <<< FAILURE!
+cucumber.runtime.CucumberException: java.lang.AssertionError: expected [auto_lastName] but found [  auto_lastName]
+	at com.cucumberFramework.testRunner.TestRunner.feature(TestRunner.java:33)
+Caused by: java.lang.AssertionError: expected [auto_lastName] but found [  auto_lastName]
+

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="185.803" tests="2" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_112\jre\bin"/>
+    <property name="java.vm.version" value="25.112-b15"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="E:\cucumber maven project\latestCucumberSeleniumFramework-master\latestCucumberSeleniumFramework-master"/>
+    <property name="java.runtime.version" value="1.8.0_112-b15"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files (x86)\Java\jdk1.8.0_112\jre\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.io.tmpdir" value="C:\Users\Lenin\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="C:\Users\Lenin\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2307772130385573627.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_112\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files (x86)/Java/jre1.8.0_112/bin/client;C:/Program Files (x86)/Java/jre1.8.0_112/bin;C:/Program Files (x86)/Java/jre1.8.0_112/lib/i386;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Android;C:\Windows\System32;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Java\jdk1.8.0_112\bin;C:\Program Files (x86)\apache-maven-3.5.0\bin;D:\SIKULI\libs;C:\Program Files (x86)\Sikuli X\libs;bin;C:\Program Files (x86)\Java\jdk1.8.0_112\bin;C:\Program Files (x86)\apache-maven-3.5.0\bin;;E:\JAVA\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\Lenin"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="Lenin"/>
+    <property name="java.class.path" value="/E:/JAVA/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.5.1.20150109-1819/jars/plexus-classworlds-2.5.1.jar"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="C:\Program Files (x86)\Java\jdk1.8.0_112\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_112"/>
+    <property name="java.ext.dirs" value="C:\Program Files (x86)\Java\jdk1.8.0_112\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files (x86)\Java\jdk1.8.0_112\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.8.0_112\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.8.0_112\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.8.0_112\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.8.0_112\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.8.0_112\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.8.0_112\jre\lib\jfr.jar;C:\Program Files (x86)\Java\jdk1.8.0_112\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="E:\cucumber maven project\latestCucumberSeleniumFramework-master\latestCucumberSeleniumFramework-master\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+  </properties>
+  <testcase name="feature" classname="com.cucumberFramework.testRunner.TestRunner" time="119.878">
+    <failure message="java.lang.AssertionError: expected [auto_lastName] but found [  auto_lastName]" type="cucumber.runtime.CucumberException">cucumber.runtime.CucumberException: java.lang.AssertionError: expected [auto_lastName] but found [  auto_lastName]
+	at com.cucumberFramework.testRunner.TestRunner.feature(TestRunner.java:33)
+Caused by: java.lang.AssertionError: expected [auto_lastName] but found [  auto_lastName]
+</failure>
+    <system-out><![CDATA[@Leads
+Feature: Leads Creation
+  As a Test Engineer I want to test Leads Creation functionality.
+2018-08-25 23:08:240 INFO  WaitHelper :27 - waiting for element visibilityOf..
+2018-08-25 23:08:668 INFO  WaitHelper :30 - element is visible..
+2018-08-25 23:08:32 INFO  WaitHelper :27 - waiting for element visibilityOf..
+2018-08-25 23:08:150 INFO  WaitHelper :30 - element is visible..
+
+  Background: User should be on Home page                                   &amp#27;[90m# leads/leads.feature:5&amp#27;[0m
+    &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mI am on the Login page URL "&amp#27;[0m&amp#27;[32m&amp#27;[1mhttp://192.168.31.89:8888/index.php?&amp#27;[0m&amp#27;[32m"&amp#27;[0m &amp#27;[90m# loginPageStepDefinitions.i_am_on_the_Login_page_URL(String)&amp#27;[0m
+    &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mI enter username as "&amp#27;[0m&amp#27;[32m&amp#27;[1madmin&amp#27;[0m&amp#27;[32m"&amp#27;[0m                                        &amp#27;[90m# loginPageStepDefinitions.i_enter_username_as(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI enter password as "&amp#27;[0m&amp#27;[32m&amp#27;[1mpassword&amp#27;[0m&amp#27;[32m"&amp#27;[0m                                      &amp#27;[90m# loginPageStepDefinitions.i_enter_password_as(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mclick on login button&amp#27;[0m                                               &amp#27;[90m# loginPageStepDefinitions.click_on_login_button()&amp#27;[0m
+    &amp#27;[32mThen &amp#27;[0m&amp#27;[32mI sould see application homepage&amp#27;[0m                                   &amp#27;[90m# HomePageStepDefinitions.i_sould_see_application_homepage()&amp#27;[0m
+2018-08-25 23:08:571 INFO  WaitHelper :27 - waiting for element visibilityOf..
+2018-08-25 23:08:737 INFO  WaitHelper :30 - element is visible..
+2018-08-25 23:08:738 INFO  LeadsCreationPage :110 - clicking on create leads button
+2018-08-25 23:08:614 INFO  LeadsCreationPage :115 - selecting first Name type as: Mr.
+2018-08-25 23:08:615 INFO  WaitHelper :27 - waiting for element visibilityOf..
+2018-08-25 23:08:699 INFO  WaitHelper :30 - element is visible..
+2018-08-25 23:08:34 INFO  LeadsCreationPage :122 - entering first name as : auto_firstName
+2018-08-25 23:08:626 INFO  LeadsCreationPage :127 - entering lastName as: auto_lastName
+2018-08-25 23:08:112 INFO  LeadsCreationPage :132 - entering company Name as: auto_company
+2018-08-25 23:08:587 INFO  LeadsCreationPage :137 - entering title as: auto_company
+2018-08-25 23:08:50 INFO  LeadsCreationPage :146 - selecting lead source as: Employee
+2018-08-25 23:08:338 INFO  LeadsCreationPage :152 - selecting industry as  : Banking
+2018-08-25 23:08:621 INFO  LeadsCreationPage :158 - entering annualrevenue as: 100
+2018-08-25 23:08:836 INFO  LeadsCreationPage :163 - entering noofemployees as : 2
+2018-08-25 23:08:13 INFO  LeadsCreationPage :168 - entering secondaryEmail as : info.test@gmail.com
+2018-08-25 23:08:498 INFO  LeadsCreationPage :173 - entering street as: 7535 Torrey Santa Fe Road
+2018-08-25 23:08:864 INFO  LeadsCreationPage :178 - entering postalCode as: 92129
+2018-08-25 23:08:64 INFO  LeadsCreationPage :183 - enter country as : US
+2018-08-25 23:08:222 INFO  LeadsCreationPage :188 - enter description as: auto_Description
+2018-08-25 23:08:419 INFO  LeadsCreationPage :193 - enter phone number as: 9999999999
+2018-08-25 23:08:674 INFO  LeadsCreationPage :198 - enter mobile number as: 9999999999
+2018-08-25 23:08:918 INFO  LeadsCreationPage :203 - enter fax as: Fax details
+2018-08-25 23:08:233 INFO  LeadsCreationPage :208 - enter email: info.test@gmail.com
+2018-08-25 23:08:883 INFO  LeadsCreationPage :213 - selecting leadStatus as: Attempted to Contact
+2018-08-25 23:08:294 INFO  LeadsCreationPage :228 - clicking on save button
+2018-08-25 23:08:914 INFO  LeadsPageStepDefinitions :154 - auto_firstName
+2018-08-25 23:08:914 INFO  LeadsPageStepDefinitions :155 - auto_lastName
+2018-08-25 23:08:914 INFO  WaitHelper :27 - waiting for element visibilityOf..
+2018-08-25 23:08:02 INFO  WaitHelper :30 - element is visible..
+2018-08-25 23:08:135 INFO  WaitHelper :27 - waiting for element visibilityOf..
+2018-08-25 23:08:175 INFO  WaitHelper :30 - element is visible..
+2018-08-25 23:08:217 INFO  WaitHelper :27 - waiting for element visibilityOf..
+2018-08-25 23:08:310 INFO  WaitHelper :30 - element is visible..
+2018-08-25 23:08:565 INFO  ServiceHooks :40 - Create Leads is Failed
+
+  @sanity @regression
+  Scenario: Create Leads                              &amp#27;[90m# leads/leads.feature:13&amp#27;[0m
+    &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mI click on leads link&amp#27;[0m                        &amp#27;[90m# HomePageStepDefinitions.i_click_on_leads_link()&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI click on leads plus button&amp#27;[0m                  &amp#27;[90m# LeadsPageStepDefinitions.i_click_on_leads_plus_button()&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI select First Name title as "&amp#27;[0m&amp#27;[32m&amp#27;[1mMr.&amp#27;[0m&amp#27;[32m"&amp#27;[0m            &amp#27;[90m# LeadsPageStepDefinitions.i_select_First_Name_title_as(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI enter First Name "&amp#27;[0m&amp#27;[32m&amp#27;[1mauto_firstName&amp#27;[0m&amp#27;[32m"&amp#27;[0m           &amp#27;[90m# LeadsPageStepDefinitions.i_enter_First_Name(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI enter last name "&amp#27;[0m&amp#27;[32m&amp#27;[1mauto_lastName&amp#27;[0m&amp#27;[32m"&amp#27;[0m             &amp#27;[90m# LeadsPageStepDefinitions.i_enter_last_name(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI enter Company name "&amp#27;[0m&amp#27;[32m&amp#27;[1mauto_company&amp#27;[0m&amp#27;[32m"&amp#27;[0m           &amp#27;[90m# LeadsPageStepDefinitions.i_enter_Company_name(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI enter Title "&amp#27;[0m&amp#27;[32m&amp#27;[1mauto_company&amp#27;[0m&amp#27;[32m"&amp#27;[0m                  &amp#27;[90m# LeadsPageStepDefinitions.i_enter_Title(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI select Lead Source "&amp#27;[0m&amp#27;[32m&amp#27;[1mEmployee&amp#27;[0m&amp#27;[32m"&amp#27;[0m               &amp#27;[90m# LeadsPageStepDefinitions.i_select_Lead_Source(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI select Industry "&amp#27;[0m&amp#27;[32m&amp#27;[1mBanking&amp#27;[0m&amp#27;[32m"&amp#27;[0m                   &amp#27;[90m# LeadsPageStepDefinitions.i_select_Industry(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI enter Annual Revenue "&amp#27;[0m&amp#27;[32m&amp#27;[1m100&amp#27;[0m&amp#27;[32m"&amp#27;[0m                  &amp#27;[90m# LeadsPageStepDefinitions.i_enter_Annual_Revenue(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI enter No Of Employees "&amp#27;[0m&amp#27;[32m&amp#27;[1m2&amp#27;[0m&amp#27;[32m"&amp#27;[0m                   &amp#27;[90m# LeadsPageStepDefinitions.i_enter_No_Of_Employees(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI enter Secondary Email "&amp#27;[0m&amp#27;[32m&amp#27;[1minfo.test@gmail.com&amp#27;[0m&amp#27;[32m"&amp#27;[0m &amp#27;[90m# LeadsPageStepDefinitions.i_enter_Secondary_Email(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI enter Street "&amp#27;[0m&amp#27;[32m&amp#27;[1m7535 Torrey Santa Fe Road&amp#27;[0m&amp#27;[32m"&amp#27;[0m    &amp#27;[90m# LeadsPageStepDefinitions.i_enter_Street(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI enter Postal Code "&amp#27;[0m&amp#27;[32m&amp#27;[1m92129&amp#27;[0m&amp#27;[32m"&amp#27;[0m                   &amp#27;[90m# LeadsPageStepDefinitions.i_enter_Postal_Code(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI enter Country "&amp#27;[0m&amp#27;[32m&amp#27;[1mUS&amp#27;[0m&amp#27;[32m"&amp#27;[0m                          &amp#27;[90m# LeadsPageStepDefinitions.i_enter_Country(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI enter Description "&amp#27;[0m&amp#27;[32m&amp#27;[1mauto_Description&amp#27;[0m&amp#27;[32m"&amp#27;[0m        &amp#27;[90m# LeadsPageStepDefinitions.i_enter_Description(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI enter Phone "&amp#27;[0m&amp#27;[32m&amp#27;[1m9999999999&amp#27;[0m&amp#27;[32m"&amp#27;[0m                    &amp#27;[90m# LeadsPageStepDefinitions.i_enter_Phone(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI enter Mobile "&amp#27;[0m&amp#27;[32m&amp#27;[1m9999999999&amp#27;[0m&amp#27;[32m"&amp#27;[0m                   &amp#27;[90m# LeadsPageStepDefinitions.i_enter_Mobile(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI enter Fax "&amp#27;[0m&amp#27;[32m&amp#27;[1mFax details&amp#27;[0m&amp#27;[32m"&amp#27;[0m                     &amp#27;[90m# LeadsPageStepDefinitions.i_enter_Fax(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI enter Email "&amp#27;[0m&amp#27;[32m&amp#27;[1minfo.test@gmail.com&amp#27;[0m&amp#27;[32m"&amp#27;[0m           &amp#27;[90m# LeadsPageStepDefinitions.i_enter_Email(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI enetr Website "&amp#27;[0m&amp#27;[32m&amp#27;[1mauto_website&amp#27;[0m&amp#27;[32m"&amp#27;[0m                &amp#27;[90m# LeadsPageStepDefinitions.i_enetr_Website(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI select Lead Status "&amp#27;[0m&amp#27;[32m&amp#27;[1mAttempted to Contact&amp#27;[0m&amp#27;[32m"&amp#27;[0m   &amp#27;[90m# LeadsPageStepDefinitions.i_select_Lead_Status(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI select Assigned To "&amp#27;[0m&amp#27;[32m&amp#27;[1mAdministrator&amp#27;[0m&amp#27;[32m"&amp#27;[0m          &amp#27;[90m# LeadsPageStepDefinitions.i_select_Assigned_To(String)&amp#27;[0m
+    &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI click on Save button&amp#27;[0m                        &amp#27;[90m# LeadsPageStepDefinitions.i_click_on_Save_button()&amp#27;[0m
+    &amp#27;[32mThen &amp#27;[0m&amp#27;[32mI should see lead creation success message&amp#27;[0m   &amp#27;[90m# LeadsPageStepDefinitions.i_should_see_lead_creation_success_message()&amp#27;[0m
+    &amp#27;[31mAnd &amp#27;[0m&amp#27;[31mI should verify leads information&amp#27;[0m             &amp#27;[90m# LeadsPageStepDefinitions.i_should_verify_leads_information()&amp#27;[0m
+      &amp#27;[31mjava.lang.AssertionError: expected [auto_lastName] but found [  auto_lastName]
+      	at org.testng.Assert.fail(Assert.java:94)
+      	at org.testng.Assert.failNotEquals(Assert.java:513)
+      	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+      	at org.testng.Assert.assertEquals(Assert.java:116)
+      	at org.testng.Assert.assertEquals(Assert.java:190)
+      	at org.testng.Assert.assertEquals(Assert.java:200)
+      	at com.cucumberFramework.stepdefinitions.LeadsPageStepDefinitions.i_should_verify_leads_information(LeadsPageStepDefinitions.java:166)
+      	at ?.And I should verify leads information(leads/leads.feature:39)
+      &amp#27;[0m
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb) on port 45291
+Only local connections are allowed.
+Aug 25, 2018 11:00:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="feature" classname="com.cucumberFramework.testRunner.TestRunner" time="61.518"/>
+</testsuite>
